@@ -1,0 +1,66 @@
+﻿  LoadShaders.cpp
+  ModelLoader.cpp
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(446): warning C4244: 'argument': conversion from 'unsigned int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(447): warning C4244: 'argument': conversion from 'unsigned int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(448): warning C4244: 'argument': conversion from 'unsigned int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(450): warning C4244: 'argument': conversion from 'unsigned int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(451): warning C4244: 'argument': conversion from 'unsigned int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(452): warning C4244: 'argument': conversion from 'unsigned int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(480): warning C4244: 'argument': conversion from 'unsigned int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(481): warning C4244: 'argument': conversion from 'unsigned int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(482): warning C4244: 'argument': conversion from 'unsigned int' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(511): warning C4244: 'initializing': conversion from '_Ty' to 'GLint', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(713): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(855): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(1060): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(1246): warning C4273: 'TwEventCharModsGLFW3': inconsistent dll linkage
+  f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\lib\anttweakbar.h(342): note: see previous definition of 'TwEventCharModsGLFW3'
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(1254): warning C4273: 'TwEventMouseButtonGLFW3': inconsistent dll linkage
+  f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\lib\anttweakbar.h(340): note: see previous definition of 'TwEventMouseButtonGLFW3'
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(1269): warning C4273: 'TwEventCursorPosGLFW3': inconsistent dll linkage
+  f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\lib\anttweakbar.h(343): note: see previous definition of 'TwEventCursorPosGLFW3'
+f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\modelloader.cpp(1274): warning C4273: 'TwEventScrollGLFW3': inconsistent dll linkage
+  f:\documents\github\avebryhoughtonvowles\modelloader\modelloader\lib\anttweakbar.h(344): note: see previous definition of 'TwEventScrollGLFW3'
+  Generating Code...
+     Creating library F:\Documents\Github\AvebryHoughtonVowles\ModelLoader\ModelLoader\x64\Debug\ModelLoader.lib and object F:\Documents\Github\AvebryHoughtonVowles\ModelLoader\ModelLoader\x64\Debug\ModelLoader.exp
+  ModelLoader.vcxproj -> F:\Documents\Github\AvebryHoughtonVowles\ModelLoader\ModelLoader\x64\Debug\ModelLoader.exe
